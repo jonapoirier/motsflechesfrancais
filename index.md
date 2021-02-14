@@ -6,3 +6,7 @@
 
 L'application **Mots Fléchés Français** respecte votre vie privée. Elle ne collecte aucune donnée personnelle.
 
+### Contact
+
+Si vous avez des questions concernant les règles de confidentialités, vous pouvez nous contacter à cette adresse : <jona.poirier@gmail.com>
+
