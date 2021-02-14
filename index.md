@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Logo Application](images/logo_splash_path_letters.png?raw=true "Title")
+
 You can use the [editor on GitHub](https://github.com/jonapoirier/motsflechesfrancais/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
