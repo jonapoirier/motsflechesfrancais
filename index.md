@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mots Fléchés Français
 
 ![Logo Application](images/logo_splash_path_letters.png?raw=true "Title")
 
