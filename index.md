@@ -9,6 +9,7 @@
 Les grilles proposées au sein de l'application sont des grilles originales, créées par l'équipe de Mots Fléchés Français.
 Ces grilles ne peuvent être diffusées ou reproduites, d'une quelconque manière que ce soit, sans l'autorisation de l'équipe.
 
+<!--
 ### Abonnements
 
 L'application propose des achats intégrés, appelés abonnements. 
@@ -21,6 +22,7 @@ Tout abonnement débuté ne peut être annulé.
 Exemple, pour un abonnement de 6 mois, souscrit au 1er janvier : 
 - Ce dernier sera renouvelé automatiquement le 1er juillet, pour 6 mois supplémentaires, au même prix.
 - Si vous le résiliez au 25 mai, l'abonnement restera valide jusqu'au 1er juillet, et ne sera pas renouvelé.
+-->
 
 ### Juridiction compétente
 
@@ -57,6 +59,7 @@ Une autre option est de désactiver le mode sombre de l'application, depuis le m
 Les grilles sont publiées via une mise à jour de l'application. Si aucune nouvelle grille n'apparaît, pensez à vérifier les mises à jour de l'application depuis le Play Store. 
 En effet, sur certains téléphones, la mise à jour automatique n'est pas nécessairement activée (et peut être par ailleurs désactivée par l'utilisateur lui-même).
 
+<!--
 ### Mode Premium
 
 **Q : Quels avantages m'offre le mode Premium ?**\
@@ -76,7 +79,7 @@ L'abonnement se renouvelle automatiquement en fin d'échéance, pour une nouvell
 L'abonnement restera valide jusqu'à la fin de la période en cours, et ne sera donc pas renouvelé.
 Vous perderez donc l'accès aux fonctionnalités Premium à la fin de la période en cours.\
 Tout abonnement débuté ne peut être annulé dans sa période en cours.
-
+-->
 
 ## Contact
 
