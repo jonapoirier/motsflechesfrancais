@@ -29,15 +29,18 @@ Ces conditions générales sont régies par la loi française.
 ## Respect de la vie privée
 
 La protection de votre vie privée est primordiale pour nous.
-L'application **Mots Fléchés Français** respecte votre vie privée. Elle ne collecte aucune donnée personnelle.
+L'application **Mots Fléchés Français** respecte votre vie privée. Elle n'exploite directement aucune donnée personnelle.
 
-### Données de navigation
+### Données statistiques
 
+Afin d'obtenir des statistiques générales sur l'application (nombre d'utilisateurs instantanés, bugs, chemins parcourus, etc.),
+l'application utilise "Firebase Google Analytics". Cette librairie associe chaque appareil à un "Client Id", que nous n'exploitons d'aucune manière.
+Si vous le souhaitez, vous pouvez changer de "Client Id" en supprimant les données de l'application, et en la relançant.
 
 
 ## FAQ
 
 ## Contact
 
-Si vous avez des questions concernant les règles de confidentialités, vous pouvez nous contacter à cette adresse : <jona.poirier@gmail.com>
+Si vous avez des questions, vous pouvez nous contacter à cette adresse : <jona.poirier@gmail.com>
 
