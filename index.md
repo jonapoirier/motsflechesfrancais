@@ -1,6 +1,6 @@
 ## Mots Fléchés Français
 
-![Logo Application](images/logo_splash_path_letters.png?raw=true "Title")
+![Logo Application](images/icone_app_250_250_rounded.png?raw=true "Title")
 
 ### Règles de confidentialités
 
